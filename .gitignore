@@ -1,0 +1,21 @@
+# R and RStudio files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local configuration
+.Renviron
+
+# Input data are not distributed
+data/*
+!data/README.md
+
+# Generated analysis products
+outputs/*
+!outputs/.gitkeep
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+

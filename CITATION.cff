@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below and cite each input canopy-height dataset separately."
+title: "UAV LiDAR and Global Canopy Height Product Comparison"
+type: software
+authors:
+  - family-names: "Mishra"
+    given-names: "Niti B."
+version: 1.0.0
+date-released: 2026-08-15
+license: MIT
+keywords:
+  - UAV LiDAR
+  - canopy height model
+  - remote sensing
+  - forest structure
+  - raster comparison
+  - accuracy assessment
+
